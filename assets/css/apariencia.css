@@ -30,8 +30,8 @@ header{
     font-size: 36px;
     font-family: monospace;
     font-weight: 600;
-    background-color: var(--blue-oscuro);
-    padding: 15px;
+    background-color: var(--beige);
+    padding: 10px;
     border-radius: 3px;
 }
 .menu li a{
@@ -42,10 +42,10 @@ header{
     display: grid;
     grid-template-columns: auto auto auto;
     width: 100%;
-    grid-gap: 20px;
+    grid-gap: 50px;
 }
 .card{
-    background-color: var(--blue-oscuro);
+    background-color: var(--blue-claro);
     border: var(--blue) 2px solid;
     border-radius: 10px;
     padding: 30px 50px;
